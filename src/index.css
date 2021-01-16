@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: NYTimes, Helvetica, sans-serif;
 }
 
 .header {
@@ -55,7 +55,7 @@ body {
   min-height: 100px;
   padding: 20px;
   background-color: rgba(0, 0, 0, 0.7);
-  border-radius: 7px;
+  border-radius: 11px;
   font-size: 12px;
   color: rgb(209, 209, 228);
 }
